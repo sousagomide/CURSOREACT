@@ -3,7 +3,7 @@
 <h2>Comandos</h2>
 <table>
   <tr>
-    <td style="width:600px">Descrição</td>
+    <td>Descrição</td>
     <td>Comando</td>
   </tr>
   <tr>
@@ -15,9 +15,3 @@
     <td>npm start</td>
   </tr>
 </table>
-
-<div>
-  Teste
-</div>
-  
- 
