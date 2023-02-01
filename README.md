@@ -8,7 +8,7 @@
   </tr>
   <tr>
     <td>Criação de projeto</td>
-    <td>npx create-react-app <nome></td>
+    <td>npx create-react-app &lt;nome&gt;</td>
   </tr>
   <tr>
     <td>Iniciar a aplicação</td>
