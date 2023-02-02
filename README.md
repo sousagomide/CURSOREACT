@@ -14,4 +14,8 @@
     <td>Iniciar a aplicação</td>
     <td>npm start</td>
   </tr>
+  <tr>
+    <td>Criar o corpo do componente com Snippet VSCode</td>
+    <td>rafce</td>
+  </tr>
 </table>
