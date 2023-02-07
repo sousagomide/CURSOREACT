@@ -1,0 +1,13 @@
+/* Ímpar */
+.oddName{
+    background-color: #FFCCCC;
+    font-size: 18px;
+    margin: 1px;
+}
+
+/* Par */
+.evenName{
+    background-color: #CCCCFF;
+    font-size: 18px;
+    margin: 1px;
+}
