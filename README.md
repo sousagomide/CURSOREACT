@@ -30,4 +30,8 @@
     <td>Rodar o servidor na aplicação</td>
     <td>Abra o arquivo package.json, em scripts adicione: "server": "json-server --watch data/db.json"</td>
   </tr>
+  <tr>
+    <td>Executar o servidor</td>
+    <td>npm run server</td>
+  </tr>
 </table>
