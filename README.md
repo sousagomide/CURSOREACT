@@ -34,4 +34,8 @@
     <td>Executar o servidor</td>
     <td>npm run server</td>
   </tr>
+  <tr>
+    <td>Instalar o React Router</td>
+    <td>npm react-router-dom</td>
+  </tr>
 </table>
