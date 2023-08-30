@@ -29,6 +29,36 @@
       "name": "Capa de chuva",
       "price": "50.79",
       "id": 6
+    },
+    {
+      "name": "Jaqueta de Couro",
+      "price": "69.99",
+      "id": 7
+    },
+    {
+      "name": "Teclado Numérico",
+      "price": "75.00",
+      "id": 8
+    },
+    {
+      "name": "Mouse",
+      "price": "60.00",
+      "id": 10
+    },
+    {
+      "name": "Suporte de monitor",
+      "price": "120.00",
+      "id": 12
+    },
+    {
+      "name": "Notebook Asus",
+      "price": "4800.99",
+      "id": 14
+    },
+    {
+      "name": "Caneca Mito",
+      "price": "56.74",
+      "id": 15
     }
   ]
 }
