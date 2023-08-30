@@ -36,6 +36,6 @@
   </tr>
   <tr>
     <td>Instalar o React Router</td>
-    <td>npm react-router-dom</td>
+    <td>npm install react-router-dom</td>
   </tr>
 </table>
